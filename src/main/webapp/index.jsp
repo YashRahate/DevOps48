@@ -4,7 +4,7 @@
 
 <h2>Here are a few things I like:</h2>
 <ul>
-    <li>Reading books</li>
+    <li>Traveling</li>
     <li>Listening to music</li>
     <li>Learning new things</li>
 </ul>
